@@ -46,6 +46,6 @@ func main() {
 
 # Disclaimer
 
-The durable channel is based on the disk queue of (nsqd)[https://github.com/nsqio/nsq/blob/master/nsqd/diskqueue.go].
+The durable channel is based on the disk queue of [nsqd](https://github.com/nsqio/nsq/blob/master/nsqd/diskqueue.go).
 
 
